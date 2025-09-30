@@ -1,0 +1,380 @@
+[
+  {
+    "id": "rev-001",
+    "name": "Marcus Thompson",
+    "email": "marcus.thompson@email.com",
+    "rating": 5,
+    "reviewText": "Honestly didn't believe in AI trading at first, but TradePilot changed my mind completely. Started with the Starter AI Bot plan and made $450 profit in just 7 days! The dashboard shows exactly how the bot finds price differences across exchanges like Binance and Coinbase. Withdrawals are super quick too - got my money in less than 15  minutes.",
+    "created_at": "2024-12-15T14:30:00.000Z",
+    "adminReply": "That's amazing Marcus! It's always exciting to see skeptics become believers. The Starter Bot is perfect for building confidence before scaling up.",
+    "image": "/uploads/reviews/review-1758136384493-514094820.jpg",
+    "keepExistingImage": "true"
+  },
+  {
+    "id": "rev-002",
+    "name": "Sarah Williams",
+    "email": "s.williams92@gmail.com",
+    "rating": 5,
+    "reviewText": "Honestly, I wasn’t sure this would work for me, but wow… the AI really does all the heavy lifting. I just set it up, and now I check my account daily to see my profits grow. It’s like having a personal assistant for crypto, and it actually works!\"\r\n",
+    "created_at": "2024-12-14T09:15:00.000Z",
+    "adminReply": "Sarah, we’re so happy it’s working well for you! Seeing your account grow without the stress of manual trading is exactly what we hoped for. Keep enjoying the results!\"",
+    "image": "/uploads/reviews/review-1758136901720-886412448.jpg"
+  },
+  {
+    "id": "rev-003",
+    "name": "James Rodriguez",
+    "email": "jrod.crypto@yahoo.com",
+    "rating": 5,
+    "reviewText": "I never thought I’d get into crypto, but this AI made it so easy. I just let it run, and every morning I see my balance grow. It’s like money working for me while I focus on my day job, super simple and stress-free",
+    "created_at": "2024-12-13T16:45:00.000Z",
+    "image": null
+  },
+  {
+    "id": "rev-004",
+    "name": "Emily Carter",
+    "email": "emily.carter.uk@hotmail.com",
+    "rating": 5,
+    "reviewText": "Two words: referral bonuses! 😄 I've earned $2,985 just from getting my friends to try TradePilot. But honestly, I'd recommend it anyway because my Professional Bot finds arbitrage opportunities I never would have spotted. Seeing it work across Kraken, Binance, and OKX simultaneously is pretty impressive.",
+    "created_at": "2024-12-12T11:20:00.000Z",
+    "adminReply": "Emily, you're one of our top referrers! Thanks for sharing TradePilot with your network - word of mouth from happy users like you means everything to us.",
+    "image": "/uploads/reviews/review-1758138358588-82659819.jpg"
+  },
+  {
+    "id": "rev-005",
+    "name": "David Johnson",
+    "email": "d.johnson2024@gmail.com",
+    "rating": 5,
+    "reviewText": "Three weeks in and every single day has been profitable. EVERY. SINGLE. DAY. The AI doesn't get emotional or make stupid decisions like I used to. It just finds price differences and executes trades automatically. My buddy thought I was crazy putting $1,200 into this, but I'm up $2,790 already.",
+    "created_at": "2024-12-11T08:30:00.000Z",
+    "image": null
+  },
+  {
+    "id": "rev-006",
+    "name": "Rebecca Davis",
+    "email": "rebecca.davis.trading@email.com",
+    "rating": 5,
+    "reviewText": "Finally, a tool that truly automates trading. I don’t have to touch charts or worry about timing.\"",
+    "created_at": "2024-12-10T19:10:00.000Z",
+    "adminReply": "happy to hear it’s helping you trade smarter, not harder!\"",
+    "image": null
+  },
+  {
+    "id": "rev-007",
+    "name": "Michael Brown",
+    "email": "mikebrown.crypto@outlook.com",
+    "rating": 5,
+    "reviewText": "Setting up the AI took me just a few minutes, and now it runs completely on its own. Seeing daily profits without lifting a finger is amazing!\"\r\n",
+    "created_at": "2024-12-09T13:25:00.000Z",
+    "image": null,
+    "adminReply": "Michael, we love hearing this! The goal is to give you hands-free crypto growth—glad it’s working for you.\""
+  },
+  {
+    "id": "rev-008",
+    "name": "Lisa Anderson",
+    "email": "lisa.anderson.trades@gmail.com",
+    "rating": 5,
+    "reviewText": "Honestly, I’ve never seen anything like this. The AI works while I sleep, and every day I wake up to profit notifications. It’s unreal how effortless it is!\"\r\n",
+    "created_at": "2024-12-08T15:40:00.000Z",
+    "adminReply": "Lisa, we love hearing that the AI is giving you real results effortlessly! That’s the power of automation at work.\"",
+    "image": "/uploads/reviews/review-1758148739519-888418536.jpg"
+  },
+  {
+    "id": "rev-009",
+    "name": "Christopher Wilson",
+    "email": "c.wilson.uk.trader@email.com",
+    "rating": 5,
+    "reviewText": "After trying 3 other trading bots that lost me money, TradePilot is in a completely different league. It's like having a team of professional arbitrage traders working around the clock. My Elite Bot has generated $1,940 profit in 2 weeks from a $700 investment. No other platform comes close to this consistency.",
+    "created_at": "2024-12-07T10:15:00.000Z",
+    "image": null
+  },
+  {
+    "id": "rev-010",
+    "name": "Amanda Martinez",
+    "email": "amanda.martinez.crypto@yahoo.com",
+    "rating": 5,
+    "reviewText": "You know what I love most? The transparency. TradePilot shows exactly which exchanges the AI is trading on, what price differences it found, and how much profit each trade made. No black box nonsense. Been using the Professional Bot for 7 weeks and it's hit its target returns every single week. Finally, a crypto platform I can actually trust.",
+    "created_at": "2024-12-06T14:50:00.000Z",
+    "adminReply": "Amanda, transparency is core to our values. We believe users should understand exactly how their money is working for them. Thanks for the amazing feedback!"
+  },
+  {
+    "id": "rev-011",
+    "name": "Robert Taylor",
+    "email": "rob.taylor.trading@gmail.com",
+    "rating": 5,
+    "reviewText": "I don’t even consider myself tech-savvy, but this AI made crypto so easy. Daily profits are showing up without me touching anything. Can’t recommend it enough!\"\r\n",
+    "created_at": "2024-12-05T12:05:00.000Z",
+    "image": null
+  },
+  {
+    "id": "rev-012",
+    "name": "Jennifer Moore",
+    "email": "jen.moore.crypto@hotmail.com",
+    "rating": 5,
+    "reviewText": "Absolutely blown away. My Elite AI Bot is simultaneously trading on Binance, Coinbase, Kraken, Bybit, and like 8 other exchanges I'd never even heard of. The arbitrage opportunities it finds are insane. Put in $2,800 and got my entire investment back in profits within 7 days. Now it's pure profit every day after that.",
+    "created_at": "2024-12-04T17:35:00.000Z",
+    "adminReply": "Jennifer, the Elite Bot's multi-exchange capabilities really shine for users like you who want maximum opportunity access. Congrats on the fantastic results!",
+    "image": "/uploads/reviews/review-1758148775136-191088636.jpg"
+  },
+  {
+    "id": "rev-013",
+    "name": "William Garcia",
+    "email": "w.garcia.trades@email.com",
+    "rating": 5,
+    "reviewText": "I wasn’t sure AI trading was for me, but this platform made it easy to start. I just set it up, and now I see consistent results daily. Loving the simplicity!\"\r\n",
+    "created_at": "2024-12-03T09:20:00.000Z",
+    "image": null,
+    "adminReply": "so glad it’s giving you consistent results with ease! That’s the goal—profit without hassle.\""
+  },
+  {
+    "id": "rev-014",
+    "name": "Michelle Thomas",
+    "email": "michelle.thomas.uk@gmail.com",
+    "rating": 5,
+    "reviewText": "Never really understood how arbitrage worked until I started with TradePilot. The learning resources actually explain everything in plain English instead of confusing jargon. Best part? I'm learning while my Starter Bot is actually making me money! $125 profit so far and I finally understand what's happening behind the scenes.",
+    "created_at": "2024-12-02T11:45:00.000Z",
+    "adminReply": "Michelle, we believe understanding your investments makes you a better investor. So glad the educational content is helping you succeed!"
+  },
+  {
+    "id": "rev-015",
+    "name": "Daniel Jackson",
+    "email": "daniel.jackson.crypto@outlook.com",
+    "rating": 5,
+    "reviewText": "Look, I'm a man of few words. TradePilot works. Period. Professional setup, consistent profits, no drama. My Elite Bot has been running for 10 weeks and every week it hits the target returns. Five stars because there's nothing to complain about.",
+    "created_at": "2024-12-01T16:15:00.000Z"
+  },
+  {
+    "id": "rev-016",
+    "name": "Patricia White",
+    "email": "patricia.white.trader@yahoo.com",
+    "rating": 5,
+    "reviewText": "I've tried other trading bots but none compare to TradePilot AI's accuracy and reliability. The support team genuinely cares about user success and provides helpful guidance.",
+    "created_at": "2024-11-30T13:30:00.000Z",
+    "adminReply": "We appreciate the comparison Patricia! Our team works hard to provide both superior technology and outstanding support."
+  },
+  {
+    "id": "rev-017",
+    "name": "Charles Lewis",
+    "email": "charles.lewis.trading@gmail.com",
+    "rating": 5,
+    "reviewText": "Wow, this AI actually saves me time. I can focus on my job, my family, or hobbies, and still see profits rolling in daily. Really impressive!\"\r\n",
+    "created_at": "2024-11-29T10:25:00.000Z",
+    "image": null,
+    "adminReply": "that’s exactly why we built TradePilot—to give you freedom while the AI handles the hard work.\""
+  },
+  {
+    "id": "rev-018",
+    "name": "Barbara Harris",
+    "email": "barbara.harris.uk@email.com",
+    "rating": 5,
+    "reviewText": "Started with a small investment to test the waters. Now I'm confident enough to scale up based on the consistent profits I've been seeing over the past two months.",
+    "created_at": "2024-11-28T18:40:00.000Z",
+    "adminReply": "Smart approach Barbara! Building confidence through results is exactly how we recommend users get started."
+  },
+  {
+    "id": "rev-019",
+    "name": "Matthew Clark",
+    "email": "m.clark.arbitrage@hotmail.com",
+    "rating": 5,
+    "reviewText": "I just made my first withdrawal of $3,400 from TradePilot AI 🚀.\r\nThe process took less than 15 minutes, and the funds were instantly credited to my TrustWallet balance ✅.\r\nThis platform is 100% legit, fast, and reliable. I’m so impressed with the speed of transactions and the transparency.\r\n\r\nHighly recommend TradePilot AI to anyone looking for a real passive income solution! 💯🔥”",
+    "created_at": "2024-11-27T15:10:00.000Z",
+    "image": "/uploads/reviews/review-1758148817368-589968356.jpg",
+    "keepExistingImage": "true",
+    "adminReply": "Congratulations on your successful withdrawal of $3,400 🎉.\nWe’re glad to see your profits reflected so quickly in your TrustWallet. 🚀\nAt TradePilot AI, our priority is fast withdrawals and transparent trading results.\nThank you for trusting us, and we look forward to seeing your next success!”"
+  },
+  {
+    "id": "rev-020",
+    "name": "Susan Robinson",
+    "email": "susan.robinson.crypto@gmail.com",
+    "rating": 5,
+    "reviewText": "Game changer for my crypto portfolio. The automated trading has freed up so much of my time while generating steady returns. Can't imagine trading without it now.",
+    "created_at": "2024-11-26T12:55:00.000Z",
+    "adminReply": "That's exactly what we hoped to achieve Susan - more time and better returns! Thank you for sharing your experience."
+  },
+  {
+    "id": "rev-021",
+    "name": "Kevin Young",
+    "email": "kevin.young.trader@yahoo.com",
+    "rating": 4,
+    "reviewText": "I love how I can just relax while the AI handles trading. I actually look forward to checking my balance",
+    "created_at": "2024-11-25T14:20:00.000Z",
+    "adminReply": "we’re thrilled the AI is making trading effortless and enjoyable for you!\"",
+    "image": null
+  },
+  {
+    "id": "rev-022",
+    "name": "Nancy Hall",
+    "email": "nancy.hall.uk@email.com",
+    "rating": 4,
+    "reviewText": "Very satisfied with the results. Interface could use minor improvements but functionality is solid.",
+    "created_at": "2024-11-24T11:35:00.000Z"
+  },
+  {
+    "id": "rev-023",
+    "name": "Paul Allen",
+    "email": "paul.allen.crypto@gmail.com",
+    "rating": 4,
+    "reviewText": "The AI performs well and I've made consistent profits. Would love to see more detailed analytics and perhaps integration with additional exchanges in future updates.",
+    "created_at": "2024-11-23T16:05:00.000Z",
+    "adminReply": "Excellent suggestions Paul! Enhanced analytics and new exchange integrations are definitely on our roadmap."
+  },
+  {
+    "id": "rev-024",
+    "name": "Karen Wright",
+    "email": "karen.wright.trading@hotmail.com",
+    "rating": 4,
+    "reviewText": "Impressed with the accuracy of trade predictions. Setup process was straightforward and customer service has been helpful.",
+    "created_at": "2024-11-22T13:15:00.000Z"
+  },
+  {
+    "id": "rev-025",
+    "name": "Mark King",
+    "email": "mark.king.arbitrage@outlook.com",
+    "rating": 4,
+    "reviewText": "I was nervous about letting an AI handle my money, but it’s been nothing but positive. Notifications are clear, and I’m seeing steady growth.\"\r\n",
+    "created_at": "2024-11-21T09:45:00.000Z",
+    "adminReply": "we’re thrilled it’s giving you confidence and steady growth! That’s the power of automated AI trading.\"",
+    "image": "/uploads/reviews/review-1758148864054-895866783.jpg"
+  },
+  {
+    "id": "rev-026",
+    "name": "Donna Scott",
+    "email": "donna.scott.uk@gmail.com",
+    "rating": 4,
+    "reviewText": "Good experience so far. Made about $5,180 in my first month which exceeded my expectations.",
+    "created_at": "2024-11-20T17:25:00.000Z",
+    "image": null
+  },
+  {
+    "id": "rev-027",
+    "name": "Steven Green",
+    "email": "steven.green.crypto@email.com",
+    "rating": 4,
+    "reviewText": "The platform looks professional, and the AI does exactly what it says. I’m seeing gains I didn’t think were possible without spending hours trading myself.\"\r\n",
+    "created_at": "2024-11-19T12:40:00.000Z",
+    "adminReply": "we’re glad the AI is helping you maximize gains efficiently. Thanks for sharing your experience!\"",
+    "image": null
+  },
+  {
+    "id": "rev-028",
+    "name": "Carol Baker",
+    "email": "carol.baker.trading@yahoo.com",
+    "rating": 4,
+    "reviewText": "I feel like I finally understand what automated crypto trading can do. TradePilot AI really delivers.\"",
+    "created_at": "2024-11-18T15:20:00.000Z",
+    "image": null
+  },
+  {
+    "id": "rev-029",
+    "name": "Anthony Adams",
+    "email": "anthony.adams.arbitrage@gmail.com",
+    "rating": 4,
+    "reviewText": "TradePilot AI delivers on its promises. The automated trading feature saves time and the results have been positive. Minor suggestion: add more customization options for risk management.",
+    "created_at": "2024-11-17T10:55:00.000Z",
+    "adminReply": "Great suggestion Anthony! Advanced risk management customization is something we're actively developing."
+  },
+  {
+    "id": "rev-030",
+    "name": "Lisa Martinez",
+    "email": "lisa.martinez.uk@hotmail.com",
+    "rating": 4,
+    "reviewText": "Good profits and reliable platform. Support team is knowledgeable and responsive.",
+    "created_at": "2024-11-16T14:10:00.000Z"
+  },
+  {
+    "id": "rev-031",
+    "name": "George Nelson",
+    "email": "george.nelson.crypto@email.com",
+    "rating": 4,
+    "reviewText": "Never thought AI could make crypto this simple. I set it up once, and now I just watch my balance grow daily.",
+    "created_at": "2024-11-15T11:30:00.000Z",
+    "adminReply": "we’re thrilled it’s giving you consistent growth effortlessly!\"",
+    "image": null
+  },
+  {
+    "id": "rev-032",
+    "name": "Helen Rodriguez",
+    "email": "helen.rodriguez.trading@gmail.com",
+    "rating": 3,
+    "reviewText": "Average experience. Made some money but not as much as I hoped initially.",
+    "created_at": "2024-11-14T16:45:00.000Z"
+  },
+  {
+    "id": "rev-033",
+    "name": "Richard Campbell",
+    "email": "richard.campbell.arbitrage@yahoo.com",
+    "rating": 5,
+    "reviewText": "The AI’s arbitrage trading is genius. I didn’t know this kind of automation existed until now!\"",
+    "created_at": "2024-11-13T13:20:00.000Z",
+    "adminReply": "we’re glad you’re seeing the power of automated AI arbitrage!\"",
+    "image": null
+  },
+  {
+    "id": "rev-034",
+    "name": "Sandra Mitchell",
+    "email": "sandra.mitchell.uk@outlook.com",
+    "rating": 4,
+    "reviewText": "\"I was skeptical at first, but TradePilot AI has exceeded my expectations. Profits come in without me lifting a finger.\"",
+    "created_at": "2024-11-12T09:35:00.000Z",
+    "image": null,
+    "adminReply": "we’re glad we could prove AI trading can be reliable and hands-free!\""
+  },
+  {
+    "id": "rev-035",
+    "name": "Ryan Parker",
+    "email": "ryan.parker.crypto@gmail.com",
+    "rating": 5,
+    "reviewText": "Notifications are amazing. I get alerts when the AI finds profitable opportunities, and it feels like having a personal assistant for crypto.\"",
+    "created_at": "2024-11-11T18:15:00.000Z",
+    "adminReply": "so happy the notifications are keeping you informed and stress-free!\"",
+    "image": null
+  },
+  {
+    "id": "rev-036",
+    "name": "Deborah Evans",
+    "email": "deborah.evans.trading@email.com",
+    "rating": 4,
+    "reviewText": "I like how TradePilot AI handles everything in the background. I just check in and see profits—so easy!\"",
+    "created_at": "2024-11-10T12:25:00.000Z",
+    "image": null
+  },
+  {
+    "id": "rev-037",
+    "name": "Frank Turner",
+    "email": "frank.turner.arbitrage@hotmail.com",
+    "rating": 4,
+    "reviewText": "Never thought I’d enjoy watching my crypto grow this much. It’s fun seeing daily notifications, and I don’t have to stress about charts anymore!\"\r\n",
+    "created_at": "2024-11-09T15:50:00.000Z",
+    "adminReply": "we love that it’s giving you peace of mind and excitement! That’s the seamless experience we designed.\"",
+    "image": "/uploads/reviews/review-1758148911681-321387902.jpg"
+  },
+  {
+    "id": "rev-038",
+    "name": "Betty Phillips",
+    "email": "betty.phillips.uk@gmail.com",
+    "rating": 5,
+    "reviewText": "I can finally focus on work and hobbies while the AI takes care of trading. It’s like having a professional trader 24/7.\"",
+    "created_at": "2024-11-08T10:40:00.000Z",
+    "adminReply": "that’s exactly the freedom we want for our users!\"",
+    "image": null
+  },
+  {
+    "id": "rev-039",
+    "name": "Gregory Collins",
+    "email": "gregory.collins.crypto@yahoo.com",
+    "rating": 5,
+    "reviewText": "It’s crazy how accurate the AI is. It spots price differences I wouldn’t even notice and turns them into profit daily.",
+    "created_at": "2024-11-07T14:15:00.000Z",
+    "image": null,
+    "adminReply": "we’re thrilled the AI is giving you such a noticeable edge!\""
+  },
+  {
+    "id": "rev-044",
+    "name": "Sharon Cooper",
+    "email": "sharon.cooper.trading@gmail.com",
+    "rating": 5,
+    "reviewText": "I was tired of manually checking exchanges. Now, TradePilot AI does everything, and I just enjoy the results.\"",
+    "created_at": "2024-11-02T09:20:00.000Z",
+    "adminReply": "that’s exactly why we built it—to take the manual stress out of trading!\"",
+    "image": null
+  }
+]
